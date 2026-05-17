@@ -1,5 +1,6 @@
 
 ---
+![Agent Orchestration Styles](Agent%20Orchestration%20styles.jpg)
 
 ## 1. Centralized Orchestration (Supervisor Pattern)
 
